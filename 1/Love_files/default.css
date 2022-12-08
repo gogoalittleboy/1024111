@@ -36,10 +36,10 @@ a {
 }
 .mywords{
 	position: absolute;
-	width: calc(100vw - 490px);
+	width: 340px;
 	height: 200px;
 	top: 750px;
-	left: 570px;
+	left: 460px;
 	font-size: 35px;
 }
 .ftsbig{
